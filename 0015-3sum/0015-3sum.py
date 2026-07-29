@@ -1,38 +1,38 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
-        ans = []
+        r = []
 
         for i in range(len(nums) - 2):
+
             # Skip duplicate first elements
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
-            target = -nums[i]
-            l = i + 1
-            r = len(nums) - 1
+            j = i + 1
+            k = len(nums) - 1
 
-            while l < r:
-                current_sum = nums[l] + nums[r]
+            while j < k:
+                total = nums[i] + nums[j] + nums[k]
 
-                if current_sum == target:
-                    ans.append([nums[i], nums[l], nums[r]])
+                if total == 0:
+                    r.append([nums[i], nums[j], nums[k]])
 
-                    l += 1
-                    r -= 1
+                    j += 1
+                    k -= 1
 
-                    # Skip duplicate left values
-                    while l < r and nums[l] == nums[l - 1]:
-                        l += 1
+                    # Skip duplicate second elements
+                    while j < k and nums[j] == nums[j - 1]:
+                        j += 1
 
-                    # Skip duplicate right values
-                    while l < r and nums[r] == nums[r + 1]:
-                        r -= 1
+                    # Skip duplicate third elements
+                    while j < k and nums[k] == nums[k + 1]:
+                        k -= 1
 
-                elif current_sum < target:
-                    l += 1
+                elif total < 0:
+                    j += 1
 
                 else:
-                    r -= 1
+                    k -= 1
 
-        return ans
+        return r
