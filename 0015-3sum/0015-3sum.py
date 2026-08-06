@@ -18,10 +18,11 @@ class Solution:
                     right -=1
                     while left<n and nums[left] == nums[left-1] :
                         left+=1
-                elif su < nums[left] + nums[right]:
-                    right-=1
                     while right > 0 and nums[right] == nums[right + 1]:
                         right-=1
+                elif su < nums[left] + nums[right]:
+                    right-=1
+                    
                 else:
                     left +=1
         return res
