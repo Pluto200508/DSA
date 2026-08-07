@@ -1,45 +1,45 @@
 class Solution:
     def threeSumMulti(self, arr: List[int], target: int) -> int:
         MOD = 10**9 + 7
-
-        # Count how many times each value appears
-        freq = Counter(arr)
-
+        arr.sort()
+        n = len(arr)
         ans = 0
 
-        # x <= y <= z avoids counting the same triplet multiple times
-        for x in range(101):
-            if x not in freq:
-                continue
+        for i in range(n - 2):
+            left = i + 1
+            right = n - 1
 
-            for y in range(x, 101):
-                if y not in freq:
-                    continue
+            while left < right:
+                s = arr[i] + arr[left] + arr[right]
 
-                z = target - x - y
+                if s < target:
+                    left += 1
 
-                # z must be at least y to maintain x <= y <= z
-                if z < y or z > 100:
-                    continue
+                elif s > target:
+                    right -= 1
 
-                if z not in freq:
-                    continue
-
-                # Case 1: x == y == z
-                if x == y == z:
-                    n = freq[x]
-                    ans += n * (n - 1) * (n - 2) // 6
-
-                # Case 2: x == y != z
-                elif x == y:
-                    ans += (freq[x] * (freq[x] - 1) // 2) * freq[z]
-
-                # Case 3: x != y == z
-                elif y == z:
-                    ans += freq[x] * (freq[y] * (freq[y] - 1) // 2)
-
-                # Case 4: x, y, z are all different
                 else:
-                    ans += freq[x] * freq[y] * freq[z]
+                    # Case 1: left and right values are different
+                    if arr[left] != arr[right]:
+                        left_count = 1
+                        right_count = 1
+
+                        while left + 1 < right and arr[left] == arr[left + 1]:
+                            left_count += 1
+                            left += 1
+
+                        while right - 1 > left and arr[right] == arr[right - 1]:
+                            right_count += 1
+                            right -= 1
+
+                        ans += left_count * right_count
+                        left += 1
+                        right -= 1
+
+                    # Case 2: all values between left and right are equal
+                    else:
+                        m = right - left + 1
+                        ans += m * (m - 1) // 2
+                        break
 
         return ans % MOD
