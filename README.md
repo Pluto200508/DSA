@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Pluto200508/DSA/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
