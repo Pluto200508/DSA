@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Pluto200508/DSA/tree/master/0060-permutation-sequence) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Pluto200508/DSA/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/Pluto200508/DSA/tree/master/0262-trips-and-users) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Pluto200508/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
