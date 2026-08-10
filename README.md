@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pluto200508/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pluto200508/DSA/tree/master/0118-pascals-triangle) |
+| [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Pluto200508/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 | [0383-ransom-note](https://github.com/Pluto200508/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pluto200508/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Pluto200508/DSA/tree/master/0409-longest-palindrome) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Pluto200508/DSA/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -90,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Pluto200508/DSA/tree/master/0060-permutation-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
