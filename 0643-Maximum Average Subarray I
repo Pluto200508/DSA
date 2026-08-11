@@ -1,0 +1,16 @@
+## This is a partially correct one . This works for 124 test cases out of 128 
+class Solution:
+    def findMaxAverage(self, nums: List[int], k: int) -> float:
+        low = 0
+        high = k
+        n = len(nums)
+        max_avg = float('-Inf')
+        while (high<=n):
+            su = sum(nums[low:high])
+            avg = su / k
+            if avg > max_avg :
+                max_avg =  avg 
+                
+            low+=1
+            high+=1
+        return max_avg
