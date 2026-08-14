@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Pluto200508/DSA/tree/master/0037-sudoku-solver) |
 | [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Pluto200508/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0383-ransom-note](https://github.com/Pluto200508/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pluto200508/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Pluto200508/DSA/tree/master/0409-longest-palindrome) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pluto200508/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,4 +157,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pluto200508/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
