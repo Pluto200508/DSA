@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pluto200508/DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Pluto200508/DSA/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pluto200508/DSA/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pluto200508/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Pluto200508/DSA/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Pluto200508/DSA/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pluto200508/DSA/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
