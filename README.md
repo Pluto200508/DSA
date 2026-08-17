@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pluto200508/DSA/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
+| [0174-dungeon-game](https://github.com/Pluto200508/DSA/tree/master/0174-dungeon-game) |
 | [0219-contains-duplicate-ii](https://github.com/Pluto200508/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Pluto200508/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Pluto200508/DSA/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Pluto200508/DSA/tree/master/0118-pascals-triangle) |
+| [0174-dungeon-game](https://github.com/Pluto200508/DSA/tree/master/0174-dungeon-game) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pluto200508/DSA/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Pluto200508/DSA/tree/master/0174-dungeon-game) |
 ## Algorithm X
 |  |
 | ------- |
