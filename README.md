@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pluto200508/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/Pluto200508/DSA/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Pluto200508/DSA/tree/master/0087-scramble-string) |
 | [0383-ransom-note](https://github.com/Pluto200508/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pluto200508/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Pluto200508/DSA/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Pluto200508/DSA/tree/master/0409-longest-palindrome) |
 ## String Matching
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Pluto200508/DSA/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Pluto200508/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Pluto200508/DSA/tree/master/0087-scramble-string) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Pluto200508/DSA/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Pluto200508/DSA/tree/master/0060-permutation-sequence) |
 ## Geometry
 |  |
