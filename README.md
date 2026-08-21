@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pluto200508/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Pluto200508/DSA/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Pluto200508/DSA/tree/master/0087-scramble-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pluto200508/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Pluto200508/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pluto200508/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Pluto200508/DSA/tree/master/0409-longest-palindrome) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pluto200508/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pluto200508/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Heap (Priority Queue)
 |  |
@@ -202,11 +204,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pluto200508/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pluto200508/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pluto200508/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pluto200508/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Pluto200508/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
@@ -214,9 +218,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pluto200508/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pluto200508/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pluto200508/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Pluto200508/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Graph Theory
