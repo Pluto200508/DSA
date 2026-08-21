@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Pluto200508/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Pluto200508/DSA/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Pluto200508/DSA/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Pluto200508/DSA/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
@@ -200,16 +201,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pluto200508/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pluto200508/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Pluto200508/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pluto200508/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Pluto200508/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
