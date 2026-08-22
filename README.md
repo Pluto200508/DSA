@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Pluto200508/DSA/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Pluto200508/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
+| [0233-number-of-digit-one](https://github.com/Pluto200508/DSA/tree/master/0233-number-of-digit-one) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pluto200508/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Pluto200508/DSA/tree/master/0174-dungeon-game) |
+| [0233-number-of-digit-one](https://github.com/Pluto200508/DSA/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 ## Game Theory
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Pluto200508/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Pluto200508/DSA/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Pluto200508/DSA/tree/master/0060-permutation-sequence) |
+| [0233-number-of-digit-one](https://github.com/Pluto200508/DSA/tree/master/0233-number-of-digit-one) |
 ## Geometry
 |  |
 | ------- |
