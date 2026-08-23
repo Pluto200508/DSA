@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/Pluto200508/DSA/tree/master/0174-dungeon-game) |
 | [0219-contains-duplicate-ii](https://github.com/Pluto200508/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Pluto200508/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Pluto200508/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pluto200508/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pluto200508/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Pluto200508/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Heap (Priority Queue)
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pluto200508/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Pluto200508/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
