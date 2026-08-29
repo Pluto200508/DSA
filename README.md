@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Pluto200508/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Pluto200508/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,10 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Pluto200508/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Brainteaser
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Pluto200508/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Zero-Sum Game
 |  |
 | ------- |
