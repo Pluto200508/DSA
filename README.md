@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Pluto200508/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Pluto200508/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Pluto200508/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pluto200508/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 | [0233-number-of-digit-one](https://github.com/Pluto200508/DSA/tree/master/0233-number-of-digit-one) |
+| [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 ## Database
 |  |
@@ -253,4 +256,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pluto200508/DSA/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
