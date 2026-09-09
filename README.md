@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Pluto200508/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Pluto200508/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Pluto200508/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Pluto200508/DSA/tree/master/0704-binary-search) |
 | [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Pluto200508/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Pluto200508/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0704-binary-search](https://github.com/Pluto200508/DSA/tree/master/0704-binary-search) |
 ## Union-Find
 |  |
 | ------- |
