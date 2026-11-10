@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pluto200508/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pluto200508/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Pluto200508/DSA/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Pluto200508/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0923-3sum-with-multiplicity](https://github.com/Pluto200508/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pluto200508/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pluto200508/DSA/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/Pluto200508/DSA/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Pluto200508/DSA/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Pluto200508/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Pluto200508/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Pluto200508/DSA/tree/master/0810-chalkboard-xor-game) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pluto200508/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pluto200508/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
